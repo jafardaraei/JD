@@ -1,0 +1,9 @@
+{
+	"name": "instjafar",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "834533d2-1743-4629-931f-b9851bef9b36",
+		"tenantId": "50338066-db54-4c0c-a5bf-6b7a5494e457"
+	}
+}
